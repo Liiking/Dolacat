@@ -1,6 +1,6 @@
 # WechatTool
 
-
+## 请参考这篇博客[Python练手项目之微信机器人、恢复被撤回的微信消息](https://blog.csdn.net/qq_1991/article/details/84337055)
 
 【程序介绍】
 
