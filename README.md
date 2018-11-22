@@ -41,8 +41,8 @@
 
 
 ## 效果图如下：
-![效果图](https://raw.githubusercontent.com/Liiking/WechatTool/master/效果图1.png)
-![效果图](https://raw.githubusercontent.com/Liiking/WechatTool/master/效果图2.png)
+![效果图](https://raw.githubusercontent.com/Liiking/WechatTool/master/效果图1.jpg)
+![效果图](https://raw.githubusercontent.com/Liiking/WechatTool/master/效果图2.jpg)
 
 
 
