@@ -40,4 +40,9 @@
 如有任何问题或意见建议，欢迎与我联系。QQ：1695173542  （请备注：哆啦猫）
 
 
+## 效果图如下：
+![效果图](https://raw.githubusercontent.com/Liiking/WechatTool/master/效果图1.png)
+![效果图](https://raw.githubusercontent.com/Liiking/WechatTool/master/效果图2.png)
+
+
 
